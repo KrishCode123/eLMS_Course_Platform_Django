@@ -1,6 +1,6 @@
 # eLMS_Course_Platform_Django
 
-A e-platform for academic institutions that combines learning management and online assessment.
+An e-platform for academic institutions that combines learning management and online assessment serves as a robust solution for modern education. It integrates essential functionalities like course management, student-teacher interaction, and digital assessments into a single platform, enhancing the learning experience for both educators and students. The Learning Management System (LMS) aspect allows educators to create and organize courses, upload resources such as videos, documents, and presentations, and deliver lectures through live or recorded sessions. It facilitates seamless communication through discussion forums, messaging, and announcements, enabling students to engage actively in their learning process. Progress tracking features allow instructors to monitor student performance through assignments, quizzes, and engagement metrics.
 
 ## Features
 
@@ -14,7 +14,7 @@ A e-platform for academic institutions that combines learning management and onl
 1. Clone the project
 
 ```bash
-git clone https://github.com/mihirsahu36/eLMS_Course_Platform_Django.git
+git clone https://github.com/KrishCode123/eLMS_Course_Platform_Django.git
 ```
 
 2. Go to the project directory
